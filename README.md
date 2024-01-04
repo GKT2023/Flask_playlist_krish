@@ -1,0 +1,1 @@
+this repo contains flask learning small apps from Krish naik videos on youtube
